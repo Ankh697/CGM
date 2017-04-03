@@ -58,9 +58,7 @@ public class App
     }
 
     //skad mam pobierac text: baza danych, plik, user
-    //czy mam wykonac testy jednostkowe
-    //czy mam umiescic projekt na git
     //czy zaproponowae przeze mnie parametry szerokosc odstepu pomiedzy kolumnami, ilosc znakow w jednej kolumnie sa wystarczajace czy mam
     //uwzglednic jeszcze jakies czynniki
-    //30 min z uwzglednieniem
+    //55 min
 }
